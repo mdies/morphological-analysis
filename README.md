@@ -17,3 +17,4 @@ For further information, I developed this program in Mac OS X 10.11.6.
 
 ![worminputImage](https://github.com/mdies/morphological-analysis/blob/master/worm_curvature_Portfolio_inputImage.png)
 ![wormsymmetryaxis](https://github.com/mdies/morphological-analysis/blob/master/worm_symmetry_axis.png)
+![wormosccircle](https://github.com/mdies/morphological-analysis/blob/master/screenShotOsculatingCircle.png)
