@@ -13,7 +13,7 @@ However, note that for version 11.1.1.0 there is a bug (most likely, some kind o
 affect results and it's just a visualization issue. I have included the `worm\_curvature\_Portfolio.avi` 
 file for a correct visualization of the osculating circle.
 
-For further information, I have developed this program in Mac OS X 10.11.6. 
+For further information, I developed this program in Mac OS X 10.11.6. 
 
 ![worminputImage](https://github.com/mdies/morphological-analysis/blob/master/worm_curvature_Portfolio_inputImage.png)
 ![wormsymmetryaxis](https://github.com/mdies/morphological-analysis/blob/master/worm_symmetry_axis.png)
