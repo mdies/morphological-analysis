@@ -13,6 +13,9 @@ However, note that for version 11.1.1.0 there is a bug (most likely, some kind o
 affect results and it's just a visualization issue. I have included the `worm\_curvature\_Portfolio.avi` 
 file for a correct visualization of the osculating circle.
 
+In case you don't have a license for Mathematica, you can still see the code installing [Wolfram 
+CDF Player](https://www.wolfram.com/cdf-player/) for free.
+
 For further information, I developed this program in Mac OS X 10.11.6. 
 
 ![worminputImage](https://github.com/mdies/morphological-analysis/blob/master/worm_curvature_Portfolio_inputImage.png)
